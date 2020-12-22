@@ -38,3 +38,5 @@ class Currency {
         this.secondCurrency = newSecondCurrency;
     }
 }
+
+//Deneme
